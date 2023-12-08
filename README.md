@@ -8,7 +8,9 @@
 ## :computer: Technologies those I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
     <br/>
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,qt" />
     <br/>
