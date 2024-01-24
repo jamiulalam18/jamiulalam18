@@ -1,9 +1,9 @@
-![Md Jamiul Alam Khan](https://raw.githubusercontent.com/jamiulalam18/jamiulalam18/main/assets/banner.png "Md Jamiul Alam Khan")
+![Md Jamiul Alam Khan](https://raw.githubusercontent.com/jamiulalam18/jamiulalam18/main/assets/profile-banner.png "Md Jamiul Alam Khan")
 
 ## :eyes: Overview
 - Web developer specialized in MERN stack technologies.
-- Hands on experience in implementation of Artificial Intelligence in web and desktop application.
-- Excellent understanding of data structure and algorithm generation using Python and java developed through professional and academic experience.
+- Hands-on experience in implementing Artificial Intelligence in web and desktop applications.
+- Excellent understanding of data structure and algorithm generation using Python and Java developed through professional and academic experience.
 
 ## :computer: Technologies those I know
 <p align="center">
